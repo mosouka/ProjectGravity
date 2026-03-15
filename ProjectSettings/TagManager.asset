@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - debris
+  - done
+  - selectionTaskStart
+  - objectT
+  - coin
+  - banner
+  - objectInteractionTask
+  - targetT
+  - taskField
   layers:
   - Default
   - TransparentFX
@@ -12,11 +21,11 @@ TagManager:
   - Grab Ignore Ray
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GravityObjects
+  - Coins
+  - GameMechanics
+  - Walls
+  - GravitySpheres
   - 
   - 
   - 

@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: IVAR
+  productName: Gravity
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -146,6 +146,8 @@ PlayerSettings:
   bundleVersion: 9.2.0
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: c0b00e4a41b5f6644912f5b66496c30c, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
